@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Item 1",
+        "description": "I am item 1"
+    },
+    {
+        "name": "Item 2",
+        "description": "I am item 2"
+    },
+    {
+        "name": "Item 3",
+        "description": "I am item 3"
+    }
+]
